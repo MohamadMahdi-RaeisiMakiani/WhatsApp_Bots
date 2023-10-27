@@ -8,6 +8,8 @@ Project Dependencies:
   - pywin32 library version b306
   - selenium library version 4.13.0
   - vobject library version 0.9.6.1
+  - FireFox Browser version 115.3.1esr (64-bit)
+  - FireFox Web Driver (geckodriver) version v0.33.0-win64
 
 1) run the script in windows OS using
     > python WAGroups_NumberScraper_Windows.py
