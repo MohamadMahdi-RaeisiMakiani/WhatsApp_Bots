@@ -9,7 +9,8 @@ Project Dependencies:
   - selenium library version 4.13.0
   - vobject library version 0.9.6.1
 
-1) run the script in windows OS using > python WAGroups_NumberScraper_Windows.py
+1) run the script in windows OS using
+    > python WAGroups_NumberScraper_Windows.py
 2) Enter the name of the group (Group Title).
 3) Enter a text file name to store the numbers in it.
 4) Enter the number of members in that group.
