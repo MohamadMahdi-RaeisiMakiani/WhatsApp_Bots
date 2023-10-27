@@ -16,3 +16,6 @@ Project Dependencies:
 5) if you want to make a vcf file to store the numbers in your phone just enter "make" after the operation finished.
 
 * to run just vcf maker in the Contacts_VCF_Maker.py just call the function and enter the txt file.
+
+* I was uploaded Project Dependencies in my Telegram Messenger Channel:
+    > T.me/mohamadmahdi_raeisimakiani
