@@ -4,10 +4,10 @@ These bots are developed by me with Python and Selenium
 ["contacts_scraper" is a bot that stores all members numbers of a group that you didn't saved their numbers.]
 
 Project Dependencies:
-  - python version 3.10.10
-  - pywin32 library version b306
-  - selenium library version 4.13.0
-  - vobject library version 0.9.6.1
+  => python version 3.10.10
+  => pywin32 library version b306
+  => selenium library version 4.13.0
+  => vobject library version 0.9.6.1
 
 1) run the script in windows OS using
     > python WAGroups_NumberScraper_Windows.py
